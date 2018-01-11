@@ -1,4 +1,5 @@
-### Testing this process
-
+### Day 2
 Today we learned to create link Git repositories, load them to our local workstations and upload changes/modifications made to them.
-We also touch on day 1 JS intruction using alert and prompt methods. 
+We also touched on day 1 JS intruction using alert and prompt methods.
+### Day 3
+Today we discussed different types of loops (While, Do while and for). We also touch on CSS basics which I find to be a real pain in the B. 
