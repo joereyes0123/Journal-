@@ -8,3 +8,9 @@ Today we leaned the “forking” technique for GitHub. We brush up on more CSS 
 
 ### Day 5 
 Today we touched on Git Branches and deploying final work. Out lab consisted of pre-arranged functions.
+
+### Day 6
+Today we reviewed ojects and how to embed their properties into .html files.
+
+### Day 7 
+today we discussed and used constructors to add data tables to our html file using our JS script.
