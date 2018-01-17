@@ -13,4 +13,4 @@ Today we touched on Git Branches and deploying final work. Out lab consisted of 
 Today we reviewed ojects and how to embed their properties into .html files.
 
 ### Day 7 
-today we discussed and used constructors to add data tables to our html file using JS.
+today we discussed and used constructors to add data tables to our html file using our JS script.
