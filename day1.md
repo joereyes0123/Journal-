@@ -14,3 +14,6 @@ Today we reviewed ojects and how to embed their properties into .html files.
 
 ### Day 7 
 today we discussed and used constructors to add data tables to our html file using our JS script.
+
+###Day 8
+Today we discussed how to create tables using forms.
