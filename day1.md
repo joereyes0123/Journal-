@@ -17,3 +17,6 @@ today we discussed and used constructors to add data tables to our html file usi
 
 ###Day 8
 Today we discussed how to create tables using forms.
+
+###Day 9
+Today we reviewed the constructors we created on day 8. Watching and hearing Allie breakdown each line help clear-up a ton of questions. At this point in class I find that Im having an easier time understanding what behind the code Im writing.
