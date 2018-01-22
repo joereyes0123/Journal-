@@ -20,3 +20,6 @@ Today we discussed how to create tables using forms.
 
 ###Day 9
 Today we reviewed the constructors we created on day 8. Watching and hearing Allie breakdown each line help clear-up a ton of questions. At this point in class I find that Im having an easier time understanding what behind the code Im writing.
+
+###Day 10
+Today we brushed up on CSS wire frames. I found that the most important part of coding with CSS is having a good HTML structure in place. In my opinion CSS  can be very diffult to manipulte.
