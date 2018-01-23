@@ -20,3 +20,6 @@ Today we discussed how to create tables using forms.
 
 ###Day 9
 Today we reviewed the constructors we created on day 8. Watching and hearing Allie breakdown each line help clear-up a ton of questions. At this point in class I find that Im having an easier time understanding what behind the code Im writing.
+
+###Day 11
+Today we tried to construct a random generator for a website. Im lost, so lost. I got the images to lead and generate but that as far as I got.
