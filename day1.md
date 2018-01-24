@@ -26,3 +26,7 @@ Today we brushed up on CSS wire frames. I found that the most important part of 
 
 ###Day 11
 Today we tried to construct a random generator for a website. Im lost, so lost. I got the images to lead and generate but that as far as I got.
+
+
+###Day 12
+Today we discussed JS charts. I did not get to practice what was shown in class since I still stuck on the previous project. I should have it completed by tomorrow.
