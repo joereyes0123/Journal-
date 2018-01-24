@@ -20,3 +20,6 @@ Today we discussed how to create tables using forms.
 
 ###Day 9
 Today we reviewed the constructors we created on day 8. Watching and hearing Allie breakdown each line help clear-up a ton of questions. At this point in class I find that Im having an easier time understanding what behind the code Im writing.
+
+###Day 12
+Today we discussed JS charts. I did not get to practice what was shown in class since I still stuck on the previous project. I should have it completed by tomorrow.
