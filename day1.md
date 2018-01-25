@@ -26,3 +26,6 @@ Today we brushed up on CSS wire frames. I found that the most important part of 
 
 ###Day 11
 Today we tried to construct a random generator for a website. Im lost, so lost. I got the images to lead and generate but that as far as I got.
+
+###DAy 13
+Today we reviewed local storage. We practiced how to store local data and recall it at a later time to run calculations. 
