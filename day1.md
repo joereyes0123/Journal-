@@ -30,5 +30,8 @@ Today we tried to construct a random generator for a website. Im lost, so lost. 
 ###DAy 13
 Today we reviewed local storage. We practiced how to store local data and recall it at a later time to run calculations. 
 
-###Day 14 
+##Day 14 
+Today we continued our BusMall project and I continue to strugle and try to catch up on previous mistakes.
+
+###Day 15
 Today we reviewed git hub merge congflicts and learned how to break everyones code.
